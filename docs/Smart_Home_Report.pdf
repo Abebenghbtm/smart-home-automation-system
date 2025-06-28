@@ -1,0 +1,23 @@
+Smart Home Automation System Report
+
+This document outlines the design and implementation of a Bluetooth-based smart home automation system using Arduino and Android. The system allows control of multiple home appliances wirelessly via a mobile phone.
+
+Components:
+- Arduino Uno/Nano
+- Bluetooth module HC-05
+- Relay modules
+- Android phone with control app
+
+Functionality:
+- The Android app sends commands to Arduino.
+- Arduino receives the Bluetooth signal and activates the appropriate relay.
+- Appliances are turned on or off accordingly.
+
+Applications:
+- Home automation
+- Remote switching
+- Energy saving solutions
+
+Future Work:
+- Add voice control
+- Add Wi-Fi and mobile app support

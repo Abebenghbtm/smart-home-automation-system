@@ -1,0 +1,11 @@
+System Overview
+
+This system enables Bluetooth-based control of home appliances. It includes:
+
+1. Android App Interface to send commands.
+2. Arduino with HC-05 module to receive and interpret signals.
+3. Relays to control electrical appliances.
+4. Power source and wiring for real-world implementation.
+
+System Flow:
+[Android App] → Bluetooth → Arduino → Relays → Appliances
